@@ -10,7 +10,7 @@ Tower Defense Game
 See controls below and detailed instruction in game.
 
 # Controls:
-<b>Mouse click<b/>: click on a tower to select it and see its stats. Click on towers on the top left to buy, click on the grid to place tower and right click to cancel. Click on 1x, 2x or 3x box on top right to increase/decrease game speed. <br/>
+<b>Mouse click</b>: click on a tower to select it and see its stats. Click on towers on the top left to buy, click on the grid to place tower and right click to cancel. Click on 1x, 2x or 3x box on top right to increase/decrease game speed. <br/>
 <b>s</b>: sell a tower if it's selected. <br/>
 <b>w</b>: upgrade a tower if it's selected. <br/>
 <b>p</b>: pause/resume the game. <br/>
