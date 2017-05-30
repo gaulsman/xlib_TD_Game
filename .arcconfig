@@ -1,0 +1,8 @@
+{
+  "project_id" : "xlib td game",
+  "conduit_uri" : "http://phab.local:8080/",
+  "phutil_libraries" : {
+    "arcanist" : "../arcanist/src/"
+  },
+  "repository.callsign": "XLIBTD"
+}
